@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NathanKolbas/NathanKolbas)
 <p align="center">
   <samp>
-    I am a Software Engineering student at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>. I worked at <a href="https://firespring.com/">Firespring</a> as a software engineer from May 2019 - July 2020 working on <a href="https://www.stbaldricks.org/">St.&nbsp;Baldrick's</a> website. I own and work on projects at <a href="http://simplycomplexapps.com/">Simply&nbsp;Complex&nbsp;Apps</a>. I love working with other people to build great new things. If you don't find me programming then I'm probably playing soccer, camping, or messing around with tech.
+    I am a Software Engineering student at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>. I worked at <a href="https://firespring.com/">Firespring</a> as a software engineer from May 2019 - July 2020 working on <a href="https://www.stbaldricks.org/">St.&nbsp;Baldrick's</a> website. I own and work on projects at <a href="http://simplycomplexapps.com/">Simply&nbsp;Complex&nbsp;Apps</a>. I love working with people to build new and exciting things. If you don't find me programming then I'm probably playing soccer, camping, or messing around with tech.
   </samp>
 </p>
 

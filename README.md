@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <samp>
-    You can find my resume <a href="https://github.com/NathanKolbas/NathanKolbas/blob/master/Kolbas_Nathan_Resume_8-30-2021.pdf">here</a> or in this repository.
+    You can find my resume <a href="https://github.com/NathanKolbas/NathanKolbas/blob/master/Kolbas_Nathan_Resume_10-10-2021.pdf">here</a> or in this repository.
   </samp>
 </p>
 
